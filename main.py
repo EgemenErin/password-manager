@@ -48,7 +48,7 @@ email=Label(text="Email:  ", font=("Arial"))
 email.grid(column=0, row=2)
 email_entry = Entry(width=35)
 email_entry.grid(column=1, row=2, columnspan=2)
-email_entry.insert(0,"egemenders@hotmail.com")
+email_entry.insert(0,"example@gmail.com")
 
 password= Label(text="Password:  ", font=("Arial"))
 password.grid(column=0, row=3)
